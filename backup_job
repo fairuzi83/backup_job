@@ -14,8 +14,8 @@ def job():
         print ('\n  '+ IP.strip() + '  \n' )
         RTR = {
         'ip':   IP,
-        'username': 'fairuzi.masrawi',
-        'password': '@S8324689h',
+        'username': '',
+        'password': '',
         'device_type': 'cisco_ios',
         }
 
